@@ -21,8 +21,22 @@ Write your own steps
 ### Name:
 ### Register Number:
 
-
+### 1.fit_vectorizer function
 Include your code here
+
+### 2. n_grams_seqs function
+Include your code here
+
+### 3. pad_seqs function
+Include your code here
+
+### 4. features_and_labels_dataset function
+Include your code here
+
+### 5.create_model function
+Include your code here
+
+
 
 ## OUTPUT
 ### 1. fit_vectorizer output
