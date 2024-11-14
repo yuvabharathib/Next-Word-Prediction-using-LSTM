@@ -28,8 +28,8 @@ Build the model with an Embedding layer, Bidirectional LSTM for sequence process
 Compile and train the model using categorical cross-entropy loss and the Adam optimizer.
 
 ## PROGRAM
-### Name: Hemasonica P
-### Register Number:212221230048
+### Name: Yuvabharathi.B
+### Register Number:212221230181
 ### 1.fit_vectorizer function
 ```
 def fit_vectorizer(corpus):
@@ -202,7 +202,6 @@ def create_model(total_words, max_sequence_len):
 
     return model
 ```
-
 ## OUTPUT
 ### 1. fit_vectorizer output
 ![Screenshot 2024-11-11 214757](https://github.com/user-attachments/assets/95ae2c33-249a-410b-95cc-e317060b2bd4)
@@ -214,16 +213,13 @@ def create_model(total_words, max_sequence_len):
 ![Screenshot 2024-11-11 214829](https://github.com/user-attachments/assets/d8e926b0-ecec-4258-a11c-19f2b818497a)
 
 ### 4. features_and_labels_dataset output
-
+![Screenshot 2024-11-14 224537](https://github.com/user-attachments/assets/edd3145c-ec8d-4a56-9937-2a3cb4fef2b7)
 
 ### 5. Training Loss, Validation Loss Vs Iteration Plot
-
+![Screenshot 2024-11-14 224427](https://github.com/user-attachments/assets/cfdd6060-17a2-4066-b71d-a263e4579ff5)
 
 ### 6. Sample Text Prediction
-
 ![Screenshot 2024-11-11 214917](https://github.com/user-attachments/assets/de4df645-0043-49f2-a956-86a0d52aa386)
 
-
 ## RESULT
-
 Thus, a trained text generator model capable of predicting the next word in a sequence from the given corpus is successfully implelemted.
